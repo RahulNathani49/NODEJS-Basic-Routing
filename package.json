@@ -1,0 +1,19 @@
+{
+  "name": "basic-routing",
+  "version": "1.0.0",
+  "description": "mine test app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "hello",
+    "rk"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
